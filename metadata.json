@@ -1,0 +1,6 @@
+{
+  "name": "RhymeMaster Std 6-8",
+  "description": "Interactive English rhyming words learning and practice app for Standard 6 to 8 GSEB students with Gujarati meanings, audio pronunciation, and textbook poem exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
